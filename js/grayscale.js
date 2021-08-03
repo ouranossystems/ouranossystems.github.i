@@ -50,8 +50,8 @@ function init() {
         center: new google.maps.LatLng(-33.967597, 151.141849), // ANSTO
 
         // Disables the default Google Maps UI components
-        disableDefaultUI: true,
-        scrollwheel: false,
+        //disableDefaultUI: true,
+        //scrollwheel: false,
         draggable: true,
         mapTypeControl: false,
         streetViewControl: false,
