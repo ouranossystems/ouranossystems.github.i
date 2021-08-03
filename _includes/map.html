@@ -7,19 +7,3 @@
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfnTE8veccdBEZhCiOrkHQcOc7nUFFKOo&callback=initMap&libraries=&v=weekly"
       async
     ></script>
-<script
-const styleOptions = {
-  name: `Dummy Style`,
-}
-
-const MAP_STYLE = [
-  {
-    featureType: `road`,
-    elementType: `all`,
-    stylers: [{ visibility: `on` }],
-  },
-]
-const mapType = new google.maps.StyledMapType(MAP_STYLE, styleOptions)
-map.mapTypes.set(`Dummy Style`, mapType)
-map.setMapTypeId(`Dummy Style`)
-        ></script>
