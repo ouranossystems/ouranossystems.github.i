@@ -53,7 +53,8 @@ function init() {
         disableDefaultUI: false,
         scrollwheel: true,
         draggable: true,
-
+        mapTypeControl: false,
+        
         // How you would like to style the map. 
         // This is where you would paste any style found on Snazzy Maps.
         styles: [{
