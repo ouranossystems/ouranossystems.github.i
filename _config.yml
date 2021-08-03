@@ -1,12 +1,12 @@
 # Site settings
 title: Ouranos Systems
 email: robert@ouranos.systems
-url: https://ouranossystems.github.io
+url: https://ouranos.systems
 description: "Powering Space"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
+  primary-dark: '#000033'
   links: '#219ab3'
 
 # Footer settings
