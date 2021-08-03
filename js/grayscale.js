@@ -54,6 +54,9 @@ function init() {
         scrollwheel: true,
         draggable: true,
         mapTypeControl: false,
+        streetViewControl: false,
+        fullscreenControl: false,
+        rotateControl: false,
         
         // How you would like to style the map. 
         // This is where you would paste any style found on Snazzy Maps.
