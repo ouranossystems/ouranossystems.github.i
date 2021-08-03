@@ -62,7 +62,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 17
+                "lightness": 10
             }]
         }, {
             "featureType": "landscape",
