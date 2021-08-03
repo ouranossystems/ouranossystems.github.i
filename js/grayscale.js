@@ -47,7 +47,7 @@ function init() {
         zoom: 10,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(-34.047492, 150.988332), // ANSTO
+        center: new google.maps.LatLng(-33.967597, 151.141849), // ANSTO
 
         // Disables the default Google Maps UI components
         disableDefaultUI: false,
@@ -62,7 +62,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 10
+                "lightness": 11
             }]
         }, {
             "featureType": "landscape",
