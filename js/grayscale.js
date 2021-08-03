@@ -85,7 +85,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 17
+                "lightness": 27
             }]
         }, {
             "featureType": "road.highway",
@@ -93,7 +93,7 @@ function init() {
             "stylers": [{
                 "color": "#000000"
             }, {
-                "lightness": 29
+                "lightness": 39
             }, {
                 "weight": 0.2
             }]
