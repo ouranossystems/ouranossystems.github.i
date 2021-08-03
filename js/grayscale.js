@@ -57,6 +57,7 @@ function init() {
         streetViewControl: false,
         fullscreenControl: false,
         rotateControl: false,
+        keyboardShortcuts: false,
         
         // How you would like to style the map. 
         // This is where you would paste any style found on Snazzy Maps.
