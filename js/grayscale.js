@@ -50,14 +50,16 @@ function init() {
         center: new google.maps.LatLng(-33.967597, 151.141849), // ANSTO
 
         // Disables the default Google Maps UI components
-        disableDefaultUI: false,
-        scrollwheel: true,
+        disableDefaultUI: true,
+        scrollwheel: false,
         draggable: true,
         mapTypeControl: false,
         streetViewControl: false,
         fullscreenControl: false,
         rotateControl: false,
         keyboardShortcuts: false,
+        gestureHandling: "cooperative",
+
         
         // How you would like to style the map. 
         // This is where you would paste any style found on Snazzy Maps.
