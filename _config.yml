@@ -6,7 +6,7 @@ description: "Powering Space"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#2c2c2c'
+  primary-dark: '#1c1c1c'
   links: '#219ab3'
 
 # Footer settings
