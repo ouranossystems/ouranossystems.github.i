@@ -1,5 +1,5 @@
 # Site settings
-title: Ouranos Systems
+title: Ouranos Supercritical Systems
 email: robert@ouranos.systems
 url: https://ouranos.systems
 description: "Powering Space"
@@ -24,10 +24,10 @@ social:
 #    url: http://bitbucket.org/jekyll
   - title: linkedin
     url: https://www.linkedin.com/company/ouranos-systems-pty-ltd
-  - title: github
-    url: https://github.com/ouranossystems
-  - title: instagram
-    url: https://www.instagram.com/ouranos.systems/?hl=en
+#  - title: github
+#    url: https://github.com/ouranossystems
+#  - title: instagram
+#    url: https://www.instagram.com/ouranos.systems/?hl=en
 
 
 # Build settings
